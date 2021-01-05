@@ -1,0 +1,27 @@
+name: mda-user-guide
+channels:
+  - defaults
+  - conda-forge
+  - plotly
+dependencies:
+  - cython
+  - ipywidgets
+  - ipython
+  - jupyter_contrib_nbextensions
+  - matplotlib==3.2.2
+  - mdanalysis
+  - MDAnalysisTests
+  - nbsphinx
+  - nglview
+  - numpy>=1.18.5
+  - pip
+  - plotly
+  - pybtex
+  - sphinx
+  - sphinxcontrib-bibtex<2.0.0
+  - sphinx_rtd_theme
+  - tabulate
+  - pip:
+      - msmb_theme==1.2.0
+      - nbgitpuller
+      - sphinx-sitemap==1.0.2
