@@ -1,5 +1,5 @@
 # binder-env-userguide
-Binder environment of the User Guide
+Binder environment of the [User Guide](https://github.com/MDAnalysis/UserGuide)
 
 This is a separate repository for the user guide environment in an attempt to speed up Binder builds.
 
